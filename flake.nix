@@ -10,7 +10,7 @@
       flake = false;
     };
     dream2nix = {
-      url = "github:nix-community/dream2nix";
+      url = "github:tinybeachthor/dream2nix/php";
       inputs.nixpkgs.follows = "nixpkgs";
     };
   };
